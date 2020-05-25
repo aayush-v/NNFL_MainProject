@@ -19,6 +19,7 @@ A new variation has been proposed for this technique. This variation focuses on 
 ### Conclusions
 
 ![testerr_controlled](/testerror_controlled_dropout.png)
+
 Controlled Dropout
 
  - Once training is done, controlled dropout gives a generalization similar to the traditional method on the MNIST dataset.
