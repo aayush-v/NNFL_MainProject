@@ -22,6 +22,7 @@ A new variation has been proposed for this technique. This variation focuses on 
 
 Controlled Dropout
 
+
  - Once training is done, controlled dropout gives a generalization similar to the traditional method on the MNIST dataset.
  - Initially the traditional method seemed to converge faster with controlled dropout making random spikes in test error during training.
  - As expected, increasing test size decreased overfitting and thus increased generalization.
