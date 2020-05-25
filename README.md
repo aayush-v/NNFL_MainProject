@@ -1,6 +1,6 @@
 # NNFL_MainProject
 NNFL : Controlled Dropout
-[Project Presentation](https://github.com/)
+[Project Presentation](https://github.com/aayush-v/NNFL_MainProject/blob/master/53.pdf)
 
 The IEEE paper implemented can be accessed at [Controlled Dropout: a Different Approach to Using Dropout on Deep Neural Network](https://ieeexplore.ieee.org/document/7881693)
 
@@ -18,8 +18,7 @@ A new variation has been proposed for this technique. This variation focuses on 
 
 ### Conclusions
 
-![testerr_controlled](/testerror_controlled_dropout.png)
-
+![testerr_controlled](/testerror_controlled_dropout.png) ![testerr_traditional](/testerror_traditional_dropout.png)
 Controlled Dropout
 
 
