@@ -18,11 +18,11 @@ A new variation has been proposed for this technique. This variation focuses on 
 
 ### Conclusions
 
-<img src = "/testerror_controlled_dropout.png" width = "480"> 
+<img src = "/testerror_controlled_dropout.png" width = "450"> 
 Controlled Dropout
 
-![testerr_traditional](/testerror_traditional_dropout.png)
-
+<img src = "/testerror_traditional_dropout.png" width = "450"> 
+Traditional Dropout
 
 
  - Once training is done, controlled dropout gives a generalization similar to the traditional method on the MNIST dataset.
