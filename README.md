@@ -35,3 +35,8 @@ Controlled Dropout
 - Choose either `Controlled_Dropout.ipynb` or `Traditional_Dropout.ipynb` based on what you want to run and copy paste their link to open it.
 - Go to Runtime -> Change Runtime type. Choose 'GPU' from the drop down menu. This is done to finish the training fast.
 - Now Run all the cells normally.
+
+### Additional Information
+- Traditional dropout was implemented on keras where as controlled dropout was implemented on pytorch.
+- Parameters such as number of epochs and number of training images are defined at the start of the code and can be easily altered as per convenience.
+- The implemented network architecture is (784 - 2000 - 2000 - 10)
