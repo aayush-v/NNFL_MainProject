@@ -18,7 +18,7 @@ A new variation has been proposed for this technique. This variation focuses on 
 
 ### Conclusions
 
-![testerr_controlled]<img src = "/testerror_controlled_dropout.png"> ![testerr_traditional](/testerror_traditional_dropout.png)
+![testerr_controlled]<img src = "/testerror_controlled_dropout.png" width = "48"> ![testerr_traditional](/testerror_traditional_dropout.png)
 Controlled Dropout
 
 
