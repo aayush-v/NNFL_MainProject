@@ -1,4 +1,4 @@
-# NNFL_MainProject
+# Controlled Dropout
 NNFL : Controlled Dropout
 [Project Presentation](https://github.com/aayush-v/NNFL_MainProject/blob/master/53.pdf)
 
